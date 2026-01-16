@@ -1,4 +1,4 @@
-![dashboard preview](images/dashboard_preview.png)
+[dashboard preview](images/dashboard_preview.png)
 # Sales Analysis with Excel and Power BI
 
 ## Project Objective
