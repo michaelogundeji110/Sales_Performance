@@ -1,4 +1,4 @@
-![Dashboard_Preview](images/dashboard_Preview.png)
+![Dashboard Preview](images/dashboard_Preview.png)
 
 # Sales Analysis with Excel and Power BI
 
